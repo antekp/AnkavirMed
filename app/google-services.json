@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720178136828",
+    "project_id": "ankavirmedfirebase",
+    "storage_bucket": "ankavirmedfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720178136828:android:67dd10231db29354fb3979",
+        "android_client_info": {
+          "package_name": "com.yt.fooddeliveryappui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMGCQODQw9WkeJaLZtD3X4lixzfnAVeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
